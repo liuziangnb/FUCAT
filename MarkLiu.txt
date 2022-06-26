@@ -2,7 +2,7 @@
 
 {
 "spider":" https://liuziangnb.github.io/FUCAT/bc.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["IaHR0cHM6Ly9saXV6aWFuZ25iLmdpdGh1Yi5pby9GVUNBVC9NYXJrTGl1WmhpYm8udHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["https://liuziangnb.github.io/FUCAT/MarkLiuZhibo.txt"]}]}],
 
 
 "sites":[
