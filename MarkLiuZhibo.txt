@@ -356,23 +356,7 @@ MAX極速汽車,http://39.134.39.38/PLTV/88888888/224/3221226195/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 
 
-MTV(Beta-Mark）,#genre#
+MTV(Beta）,#genre#
 
 失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
-告白地球,http://qukufile2.qianqian.com/data2/video/d61b9168c43fb08dd7cbb3ed57a724e3/608011767/608011767.mp4
-夜曲,http://qukufile2.qianqian.com/data2/video/1663526feaf6ce3356eb738fcf349d7f/607942796/607942796.mp4
-菊花台,http://qukufile2.qianqian.com/data2/video/90ab2e44f8895c921e8461dd55775efc/608012143/608012143.mp4
-简单爱,http://qukufile2.qianqian.com/data2/video/40cee634ec969e68d80d476121535d3a/608011913/608011913.mp4
-时间都去哪了,http://qukufile2.qianqian.com/data2/video/531235d6ab5bf55fe9be898b5273bd10/607996223/607996223.mp4
-可爱女人,http://qukufile2.qianqian.com/data2/video/5e97989acb030ab600c5c7ea91883975/607942506/607942506.mp4
-My Love,http://qukufile2.qianqian.com/data2/video/6208d1700e2053f0310cc42c1bc3fe20/608010056/608010056.mp4
-黄金甲,http://qukufile2.qianqian.com/data2/video/89d00859990ab00850e0e26ad71f427c/608011829/608011829.mp4
-星晴,http://qukufile2.qianqian.com/data2/video/7bd0e2ed49683239f9ad64ff68bfe3cb/607942670/607942670.mp4
-后来的我们,http://qukufile2.qianqian.com/data2/video/d475d2d5a1c5f6589538de5f36d7c5b6/608004684/608004684.mp4
-月弯弯,http://qukufile2.qianqian.com/data2/video/3b34ae7939b0647b26015b93628ffbac/608073532/608073532.mp4
-屋顶,http://qukufile2.qianqian.com/data2/video/eed63c18b7f66b48f87acb8927b5b684/607942636/607942636.mp4
-惊喜派对,http://qukufile2.qianqian.com/data2/video/24cc806ad5dcdb70d015bb6f5898b091/672346671/672346671.mp4
-唱风,http://qukufile2.qianqian.com/data2/video/40941cbd789adf0e0c4588ec51156b2b/672271759/672271759.mp4
-伤心太平洋,http://qukufile2.qianqian.com/data2/video/f18b3a081de3533877b96a994b143b14/607997830/607997830.mp4
-我们很好,http://qukufile2.qianqian.com/data2/video/537cedf86a32fd37eb1a611f8ee41e92/659934930/659934930.mp4
-爱江山更爱美人,http://qukufile2.qianqian.com/data2/video/798c3432e408167f679806375174955b/607975664/607975664.mp4
+
