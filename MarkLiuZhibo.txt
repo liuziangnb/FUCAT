@@ -333,7 +333,6 @@ CCTV5[1920*1080],http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 哆啦A梦,http://106.53.212.251/daili/bili.php?id=1717236
 哆啦A梦新版,http://106.53.212.251/daili/bili.php?id=12811814
 中华小当家,http://106.53.212.251/daili/bili.php?id=655291
-樱桃小丸子,http://106.53.212.251/daili/bili.php?id=11765640
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 
 体育,#genre#
