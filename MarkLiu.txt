@@ -1,6 +1,6 @@
 ﻿
 {
-"spider":"https://liuziangnb.github.io/FUCAT/0805.jar",
+"spider":"https://liuziangnb.github.io/FUCAT/0928.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9saXV6aWFuZ25iLmdpdGh1Yi5pby9GVUNBVC9NYXJrTGl1WmhpYm8udHh0"]}]}],
 
