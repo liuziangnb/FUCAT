@@ -9,9 +9,8 @@
   //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/0928.jar",
   //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1013.jar",
  
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9saXV6aWFuZ25iLmdpdGh1Yi5pby9GVUNBVC9NYXJrTGl1WmhpYm8udHh0"]}]}],
   
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2hlcm9ha3UvVFZib3hvL3Jhdy9tYWluL3R2L2JjLnR4dA=="]}]}],
-
   "sites":[
   //spider java
     {"key":"小苹果","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
