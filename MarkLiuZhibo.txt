@@ -1,9 +1,7 @@
 ⚽Football,#genre#
 
 
-CCTV5[1920*1080],https://ldcctvwbcdali.v.myalicdn.com/ldcctvwbcd/cdrmldcctv5_1/index.m3u8?b=200-2100
-
-CCTV5[1920*1080],https://ldcctvwbcdali.v.myalicdn.com/ldcctvwbcd/cdrmldcctv5_1td.m3u8
+CCTV5[1920*1080],https://pull-flv-f26.douyincdn.com/media/stream-112006335366431404.flv?abr_pts=-1800
 
 
 
