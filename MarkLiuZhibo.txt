@@ -1,7 +1,9 @@
 ⚽Football,#genre#
 
 
-CCTV5[1920*1080],https://pull-flv-f26.douyincdn.com/media/stream-112006335366431404.flv?abr_pts=-1800
+抖音[1920*1080],https://pull-flv-f26.douyincdn.com/media/stream-112006335366431404.flv?abr_pts=-1800
+
+CCTV5[1920*1080],https://4e3d9d361855b3afd2a1aaffcec58289.v.smtcdns.net/pull-flv-l11-cny01-spe.ixigua.com/fantasy/stream-688466767225815062_hd.flv?_neptune_token=MIGnBAwRzRP1EGRdGs_u0BEEgYQC0a35RuzzHwp9rQ4sEs15gwxN1S0xbeNIwODM-xSSN_U_nmculibDLuGxIuQ3ik9l6PInGm6IJ3IwVNZDD9eI8udubCoXasrZgNO90_BD72-3DH0l47zUajvxIGNZ1pxkelUEcjAHMMv_YstcLtHtmoP8zna5wF_5BsUwr7YUNu0dj6gEEI6du37HJGE0j_drbPHUrpw&expire=1669636766&sign=fd13368c661035d1c34a6cbf6b90b849&abr_pts=-1800&svr_type=live_oc&tencent_test_client_ip=111.201.53.147&dispatch_from=ztc10.60.23.83&utime=1669031981954_4
 
 
 
