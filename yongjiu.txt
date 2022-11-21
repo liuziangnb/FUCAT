@@ -6,7 +6,7 @@
 {
 
 "spider":"./vod;md5;c4ba98711fac35daff17780d0817f5dc",
-"wallpaper":"aHR0cHM6Ly93d3cuYWxpeXVuZHJpdmUuY29tL3MvMlNLV3FoaVdmQTYK",
+"wallpaper":"https://www.aliyundrive.com/s/4bFUPrz91aQ",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
 
 "sites":[
