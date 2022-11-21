@@ -15,8 +15,9 @@
   "sites":[
   //spider java
     {"key":"小苹果","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-	{"key": "csp_Gitcafe","name":"🐞阿里纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},  
+    {"key": "drpy_js_厂长资源","name": " 🎑厂长资源[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/厂长资源.js"},
+    {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "csp_Gitcafe","name":"🐞阿里纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},  
     {"key": "csp_AliPS","name":"🐞阿里喵搜(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
     {"key": "在线直播（SP）","name": "在线直播（SP）","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Yisou","name":"🐞易搜盘(SP)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
@@ -281,7 +282,7 @@
 	{"key": "drpy_js_蛋蛋魔法","name": " 🎑蛋蛋魔法[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/蛋蛋魔法.js"},
 	{"key": "drpy_js_捷华影视","name": " 🎑捷华影视[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/捷华影视.js"},
 	{"key": "drpy_js_JustLive","name": " 🎑JustLive[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/JustLive.js"},
-	{"key": "drpy_js_厂长资源","name": " 🎑厂长资源[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/厂长资源.js"},
+	
 	{"key": "drpy_js_来看点播","name": " 🎑来看点播[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/来看点播.js"},
 	{"key": "drpy_js_看看电影","name": " 🎑看看电影[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/看看电影.js"},
 	{"key": "drpy_js_霹雳影视","name": " 🎑霹雳影视[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/霹雳影视.js"},
