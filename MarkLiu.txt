@@ -4,7 +4,7 @@
   //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/91a.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
   //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1008.jar",
   //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/cs.jar;md5;ca07e741640debc3777bb9a227cfb884",
-  "spider":"https://liuziangnb.github.io/FUCAT/1224.jar",
+  "spider":"https://liuziangnb.github.io/FUCAT/0317.jar",
   //"spider":"https://神器每日推送.tk/jar",
   //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/0928.jar",
   //"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1013.jar",
@@ -13,8 +13,9 @@
   
   "sites":[
   //spider java
-    {"key":"MarkLiu","name":"12.4更新","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"MarkLiu","name":"03.17更新","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_FindZY","name":"🐞盘搜2","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0},
     {"key": "drpy_js_厂长资源","name": " 🎑厂长资源[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy2.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/厂长资源.js"},
     {"key":"csp_CZSPP","name":"🐖厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_Gitcafe","name":"猫阿里纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},  
